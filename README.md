@@ -1,6 +1,6 @@
 # PonyFM Fast Downloader
 
-### Simple JS-based Chrome extension that assists in downloading the highest possible quality source file from [pony.fm](www.pony.fm).
+### Simple JS-based Chrome extension that assists in downloading the highest possible quality source file from [pony.fm](https://www.pony.fm).
 
 ## How to install
 1) Download/clone repository contents locally into accessible directory
